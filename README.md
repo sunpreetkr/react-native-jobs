@@ -23,4 +23,4 @@ This React Native application is a three screen application with elegant UI/UX t
 
 
 ![Home Page](public/Home-Page.png)
-
+![Search](public/Search.png)
