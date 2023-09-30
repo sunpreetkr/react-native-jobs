@@ -18,7 +18,7 @@ This React Native application is a three screen application with elegant UI/UX t
 
 
 # Future Improvement 
-- Implement share, show all and navigation bar menu features
+- Implement share, show all, profile and mobile navigation menu features
 
 
 
