@@ -21,12 +21,9 @@ This React Native application is a three screen application with elegant UI/UX t
 - Implement share, show all and navigation bar menu features
 
 
-![Landing Page](public/Landing-Page.PNG)
-![Home Page](public/HomePage.PNG)
-![Search](public/Search.PNG)
-![React-Native](public/React-Native.PNG)
-![Loading](public/Loading.PNG)
-![About](public/About.PNG)
-![Qualifications](public/Qualifications.PNG)
-![Responsibilities](public/Responsibilities.PNG)
-![Apply](public/Apply.PNG)
+
+![Home Page](public/Home-Page.png)
+![Search](public/Search.png)
+![About](public/About.png)
+![Qualifications](public/Qualifications.png)
+![Apply](public/Apply.png)
